@@ -18,10 +18,5 @@
   ],
   "env": {
     "VITE_OPENDART_API_URL": "https://opendart.fss.or.kr/api"
-  },
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
   }
 }
